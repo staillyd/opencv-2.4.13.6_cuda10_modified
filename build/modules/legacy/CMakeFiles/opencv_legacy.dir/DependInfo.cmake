@@ -1,0 +1,142 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/data/opencv-2.4.13.6/modules/legacy/src/3dtracker.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/3dtracker.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/auxutils.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/auxutils.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/bgfg_acmmm2003.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_acmmm2003.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/bgfg_codebook.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_codebook.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/bgfg_common.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_common.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/bgfg_estimation.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_estimation.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/bgfg_gaussmix.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/bgfg_gaussmix.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrack.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrack.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackanalysis.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackanalysis.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackanalysishist.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackanalysishist.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackanalysisior.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackanalysisior.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackanalysistrackdist.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackanalysistrackdist.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackgen1.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackgen1.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackgenyml.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackgenyml.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackingauto.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingauto.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackingcc.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingcc.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackingccwithcr.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingccwithcr.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackinglist.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackinglist.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackingmsfg.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingmsfg.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackingmsfgs.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackingmsfgs.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackpostprockalman.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackpostprockalman.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackpostproclinear.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackpostproclinear.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/blobtrackpostproclist.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/blobtrackpostproclist.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/calcimagehomography.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/calcimagehomography.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/calibfilter.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/calibfilter.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/calonder.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/calonder.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/camshift.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/camshift.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/clique.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/clique.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/compat.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/compat.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/condens.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/condens.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/contourtree.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/contourtree.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/correspond.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/correspond.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/corrimages.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/corrimages.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/createhandmask.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/createhandmask.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/decomppoly.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/decomppoly.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/dominants.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/dominants.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/dpstereo.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/dpstereo.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/eigenobjects.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/eigenobjects.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/em.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/em.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/enmin.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/enmin.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/enteringblobdetection.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/enteringblobdetection.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/enteringblobdetectionreal.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/enteringblobdetectionreal.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/epilines.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/epilines.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/extendededges.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/extendededges.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/face.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/face.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/facedetection.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/facedetection.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/facetemplate.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/facetemplate.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/features2d.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/features2d.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/featuretree.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/featuretree.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/findface.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/findface.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/findhandregion.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/findhandregion.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/hmm.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/hmm.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/hmm1d.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/hmm1d.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/hmmobs.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/hmmobs.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/image.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/image.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/kdtree.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/kdtree.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/lcm.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/lcm.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/lee.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/lee.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/levmar.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/levmar.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/levmarprojbandle.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/levmarprojbandle.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/levmartrif.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/levmartrif.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/lines.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/lines.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/lmeds.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/lmeds.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/lsh.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/lsh.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/morphcontours.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/morphcontours.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/morphing.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/morphing.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/oneway.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/oneway.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/optflowbm.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/optflowbm.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/optflowhs.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/optflowhs.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/optflowlk.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/optflowlk.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/pgh.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/pgh.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/planardetect.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/planardetect.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/prewarp.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/prewarp.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/pyrsegmentation.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/pyrsegmentation.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/scanlines.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/scanlines.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/segment.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/segment.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/snakes.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/snakes.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/spilltree.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/spilltree.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/stereogc.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/stereogc.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/subdiv2.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/subdiv2.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/testseq.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/testseq.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/texture.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/texture.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/trifocal.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/trifocal.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/vecfacetracking.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/vecfacetracking.cpp.o"
+  "/data/opencv-2.4.13.6/modules/legacy/src/video.cpp" "/data/opencv-2.4.13.6/build/modules/legacy/CMakeFiles/opencv_legacy.dir/src/video.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "_USE_MATH_DEFINES"
+  "__STDC_CONSTANT_MACROS"
+  "__STDC_FORMAT_MACROS"
+  "__STDC_LIMIT_MACROS"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../modules/legacy/test"
+  "../modules/video/include"
+  "../modules/calib3d/include"
+  "../modules/features2d/include"
+  "../modules/highgui/include"
+  "../modules/imgproc/include"
+  "../modules/flann/include"
+  "../modules/core/include"
+  "../modules/ts/include"
+  "../modules/legacy/include"
+  "../modules/ml/include"
+  "modules/legacy"
+  "../modules/legacy/src"
+  "."
+  "/usr/local/cuda/include"
+  )
+
+# Pairs of files generated by the same build rule.
+set(CMAKE_MULTIPLE_OUTPUT_PAIRS
+  "/data/opencv-2.4.13.6/build/lib/libopencv_legacy.so" "/data/opencv-2.4.13.6/build/lib/libopencv_legacy.so.2.4.13"
+  "/data/opencv-2.4.13.6/build/lib/libopencv_legacy.so.2.4" "/data/opencv-2.4.13.6/build/lib/libopencv_legacy.so.2.4.13"
+  )
+
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/data/opencv-2.4.13.6/build/modules/calib3d/CMakeFiles/opencv_calib3d.dir/DependInfo.cmake"
+  "/data/opencv-2.4.13.6/build/modules/ml/CMakeFiles/opencv_ml.dir/DependInfo.cmake"
+  "/data/opencv-2.4.13.6/build/modules/video/CMakeFiles/opencv_video.dir/DependInfo.cmake"
+  "/data/opencv-2.4.13.6/build/modules/features2d/CMakeFiles/opencv_features2d.dir/DependInfo.cmake"
+  "/data/opencv-2.4.13.6/build/modules/flann/CMakeFiles/opencv_flann.dir/DependInfo.cmake"
+  "/data/opencv-2.4.13.6/build/modules/highgui/CMakeFiles/opencv_highgui.dir/DependInfo.cmake"
+  "/data/opencv-2.4.13.6/build/modules/imgproc/CMakeFiles/opencv_imgproc.dir/DependInfo.cmake"
+  "/data/opencv-2.4.13.6/build/modules/core/CMakeFiles/opencv_core.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
